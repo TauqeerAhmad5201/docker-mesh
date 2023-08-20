@@ -25,3 +25,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 
 ## Cheat Sheet 
 
+`docker ps`: List all running containers.
