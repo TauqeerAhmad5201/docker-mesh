@@ -26,3 +26,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 ## Cheat Sheet 
 
 `docker ps`: List all running containers.
+`docker run`: Create a new container and run it.
