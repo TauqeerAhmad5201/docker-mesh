@@ -30,3 +30,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 `docker stop`: Stop a running container.
 `docker start`: Start a stopped container.
 `docker restart`: Restart a running container.
+`docker rm`: 
