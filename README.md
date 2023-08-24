@@ -31,3 +31,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 `docker start`: Start a stopped container.
 `docker restart`: Restart a running container.
 `docker rm`: Remove a container.
+`docker images`:
