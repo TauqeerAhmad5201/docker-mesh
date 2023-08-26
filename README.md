@@ -33,4 +33,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 `docker rm`: Remove a container.
 `docker images`: List all images
 `docker build`: Build an image from a Dockerfile.
-`docker push`
+`docker push`: Push an image to a registry.
