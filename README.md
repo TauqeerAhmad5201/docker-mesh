@@ -29,7 +29,7 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker run`: Create a new container and run it.
 - `docker stop`: Stop a running container.
 - `docker start`: Start a stopped container.
-`docker restart`: Restart a running container.
+- `docker restart`: Restart a running container.
 `docker rm`: Remove a container.
 `docker images`: List all images
 `docker build`: Build an image from a Dockerfile.
