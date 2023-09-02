@@ -31,7 +31,7 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker start`: Start a stopped container.
 - `docker restart`: Restart a running container.
 - `docker rm`: Remove a container.
-`docker images`: List all images
+- `docker images`: List all images
 `docker build`: Build an image from a Dockerfile.
 `docker push`: Push an image to a registry.
 `docker pull`: Pull an image from a registry.
