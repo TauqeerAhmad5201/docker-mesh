@@ -34,5 +34,5 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker images`: List all images
 - `docker build`: Build an image from a Dockerfile.
 - `docker push`: Push an image to a registry.
-`docker pull`: Pull an image from a registry.
+- `docker pull`: Pull an image from a registry.
 `docker inspect`: 
