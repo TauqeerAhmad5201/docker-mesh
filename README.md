@@ -36,6 +36,6 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker build`: Build an image from a Dockerfile.
 - `docker push`: Push an image to a registry.
 - `docker pull`: Pull an image from a registry.
-- `docker inspect`: Inspect or visionize all the docker images
+
 - `docker stats`: This command is used to get statistics about a Docker container.
 - `docker logs`: This command is used to view the logs for a Docker container.
