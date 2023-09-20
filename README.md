@@ -39,5 +39,6 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker inspect`: Inspect or visionize all the docker images
 - `docker stats`: This command is used to get statistics about a Docker container.
 - `docker logs`: This command is used to view the logs for a Docker container.
+- `docker commit`: 
 
 These are just a few of the many mid-level Docker commands.
