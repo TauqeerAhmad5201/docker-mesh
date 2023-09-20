@@ -40,5 +40,6 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker stats`: This command is used to get statistics about a Docker container.
 - `docker logs`: This command is used to view the logs for a Docker container.
 - `docker commit`: This command creates a new image from an existing container.
+- `ocker network`: 
 
 These are just a few of the many mid-level Docker commands.
