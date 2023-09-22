@@ -41,5 +41,5 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker logs`: This command is used to view the logs for a Docker container.
 - `docker commit`: This command creates a new image from an existing container.
 - `docker network`: This command creates and manages Docker networks.
-- `docker system df`:
+- `docker system df`: Displays disk usage information for Docker containers, images, and volumes.
 These are just a few of the many mid-level Docker commands.
