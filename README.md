@@ -43,4 +43,4 @@ Docker is so popular today that “Docker” and “containers” are used inter
 - `docker network`: This command creates and manages Docker networks.
 - `docker system df`: Displays disk usage information for Docker containers, images, and volumes.
 These are just a few of the many mid-level Docker commands.
-- `docker system prune:`: 
+- `docker system prune:`: Removes unused Docker data, such as dangling images and unused volumes.
