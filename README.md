@@ -46,4 +46,4 @@ These are just a few of the many mid-level Docker commands.
 - `docker system prune:`: Removes unused Docker data, such as dangling images and unused volumes.
 - `docker buildx build`: Docker images using a multi-platform builder.
 - `docker image inspect:`: Displays detailed information about a Docker image.
-- `docker swarm leave:`
+- `docker swarm leave:` Leaves a Docker swarm cluster.
