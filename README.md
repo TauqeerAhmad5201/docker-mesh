@@ -49,3 +49,4 @@ These are just a few of the many mid-level Docker commands.
 - `docker swarm leave:` Leaves a Docker swarm cluster.
 - `docker swarm init`: Run docker swarm init to create a single-node swarm on the current node
 - `docker volume prune`: Removes unused Docker volumes.
+- `docker volume inspect`: 
