@@ -50,4 +50,4 @@ These are just a few of the many mid-level Docker commands.
 - `docker swarm init`: Run docker swarm init to create a single-node swarm on the current node
 - `docker volume prune`: Removes unused Docker volumes.
 - `docker volume inspect`: Displays detailed information about a Docker volume.
-- `docker rm`: This command removes a Docker container.
+
