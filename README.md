@@ -51,4 +51,4 @@ These are just a few of the many mid-level Docker commands.
 - `docker volume prune`: Removes unused Docker volumes.
 - `docker volume inspect`: Displays detailed information about a Docker volume.
 - `docker rm`: This command removes a Docker container.
-- `docker  run`: 
+- `docker  run`: This command starts a Docker container from an image.
