@@ -11,7 +11,7 @@ Difference b/w virtualization and containerization.
 - In containerisation - hardware will be used from the system but will not be fixed, it will be allocated for the time it is being used. 
 
 
-Docker uses OS-level containerization. 
+
 
 ## Official 
 https://docs.docker.com/get-started/
