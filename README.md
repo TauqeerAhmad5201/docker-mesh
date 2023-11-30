@@ -20,7 +20,7 @@ https://docs.docker.com/get-started/02_our_app/
 
 ## Why use Docker?
 
-Docker is so popular today that “Docker” and “containers” are used interchangeably. But the first container-related technologies were available for years—even decades (link resides outside IBM)—before Docker was released to the public in 2013. 
+Docker is o popular today that “Docker” and “containers” are used interchangeably. But the first container-related technologies were available for years—even decades (link resides outside IBM)—before Docker was released to the public in 2013. 
 
 
 
