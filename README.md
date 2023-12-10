@@ -51,6 +51,6 @@ These are just a few of the many mid-level Docker commands.
 - `docker volume inspect`: Displays detailed information about a Docker volume.
 - `docker rm`: This command removes a Docker container.
 - `docker  run`: This command starts a Docker container from an image.
-- `docker `: Provides detailed information about Docker objects, such as containers, images, networks, and volumes.
+- `docker inspect`: Provides detailed information about Docker objects, such as containers, images, networks, and volumes.
 
 
